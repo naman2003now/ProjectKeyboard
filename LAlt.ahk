@@ -3,6 +3,7 @@ SendMode Input
 SetWorkingDir, %A_ScriptDir%
 
 ::wlml::When life gives you lemon🍋 make a lemonade 🍶🧊🥛🍋🥄
+::idk::I don't know
 
 ; Number row!
 ; <!+A:: Send 👈🏼
